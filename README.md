@@ -1,20 +1,9 @@
-# ellieeet123.github.io
+# pringlez.github.io
 The Source code for Pringles, an adobe flash game archive website using Ruffle to emulate adobe flash. Mostly just a project for my friends and I. (still a major WIP at this point)
 
-if you want to visit the site then go to https://ellieeet123.github.io
+if you want to visit the site then go to https://pringlez.github.io
  
 # More URLS
-
-### If for some reason the main url doesn't work for you one of these might:
-https://ellieeet123.github.io (Main URL)
-
-https://pring-site.github.io (Secondary URL, contains the latest fully stable version of the site)
-
-https://ellieeet123-github-io.vercel.app/ (random backup)
-
-https://ellieeet123-github-io-elliotclydon-gmailcom.vercel.app/ (random backup)
-
-https://ellieeet123-github-io-git-main-elliotclydon-gmailcom.vercel.app/ (random backup)
 
 
 # Getting your own copy
